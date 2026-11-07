@@ -1,7 +1,7 @@
 ---
 name: "Harness"
 link: "https://www.harness.io/"
-tags: [grok-bot]
+tags: [skill, grok-bot]
 ---
 
 Harness Skills + Harness packaged as a integration. Build, debug, deploy, and govern via Harness.

@@ -4,22 +4,24 @@ Maintainer notes for Awesome-Agent-Services. The site is a [yaal](yaal/) content
 
 ## Positioning
 
-This list collects services an AI agent can call to get something done in the real world or in a person's accounts: mail, calendar, files, payments, scheduling, support, sales, and similar fulfillment and transaction surfaces.
+This list is the complete collection of supporting tools and supporting services an agent can call. That includes fulfillment services (mail, calendar, files, payments, scheduling, support, sales, and the rest) and the infrastructure and code-hosting platforms an agent operates: AWS, Azure, Google Cloud, Vercel, Railway, Render, Netlify, Cloudflare, Docker, GitHub, GitLab, Kubernetes tooling, and their official CLIs.
 
-It is not another MCP-server directory and not a dump of adapters, skills, or protocol wrappers.
+It also includes code-related supporting tools that are not those platforms: observability, context and quality tools, skill directories, and MCP servers or skills that are products in their own right.
 
-[Awesome-Vibe-Coding](https://github.com/0xWelt/Awesome-Vibe-Coding) keeps coding harnesses and coding-oriented MCP servers and tools. Do not copy AVC entries here.
+Entries are the tool or service itself. One product, one entry. Do not classify the list by connection type. `tags` record verified connection methods (`mcp`, `skill`, `grok-bot`, `cli`, `chatgpt`). A Grok Bot catalog connector is not `mcp`.
+
+[Awesome-Vibe-Coding](https://github.com/0xWelt/Awesome-Vibe-Coding) keeps coding harnesses and Lovable-like vibe-coding builders: Bolt.new, Replit, Lovable, Open Lovable, Firebase Studio, Cursor, Claude Code, and similar apps that run the agent. Do not list those harnesses here. Infrastructure and code hosts that an agent operates belong here, not in AVC.
 
 [Awesome-Personal-Agents](https://github.com/0xWelt/Awesome-Personal-Agents) keeps named personal-agent products. Do not list Grok Bot, Dots, Claude Duet, Muse, Manus, OpenClaw, or Hermes Agent here.
 
 ## Inclusion rule
 
-Include a product when an agent can call it to read or change something outside the chat: a message sent, a meeting booked, a file updated, a payment made, a ticket moved, a campaign launched, a record written, or a hosted system operated.
+Include a product when an agent can call it to read or change something outside the chat: a message sent, a meeting booked, a file updated, a payment made, a ticket moved, a campaign launched, a record written, a hosted system operated, or a supporting tool used while that work happens.
 
 Do not include:
 
-- The MCP server, skill pack, CLI, or protocol wrapper that merely reaches a product. Link the product.
-- A coding harness, coding IDE, or coding-oriented tool. Those stay in Awesome-Vibe-Coding. Replit, Lovable, and Vibecode are examples already listed there.
+- A second entry for a protocol wrapper, CLI, or skill pack that only reaches a product already listed. Link the product and tag the connection.
+- A coding harness or Lovable-like app builder. Bolt.new, Replit, Lovable, Open Lovable, Firebase Studio, Cursor, and Claude Code stay in Awesome-Vibe-Coding.
 - A named personal agent. Grok Bot, Dots, Claude Duet, Muse, Manus, OpenClaw, and Hermes Agent stay in Awesome-Personal-Agents.
 - Cursor or Grok Bot internals (canvases, plugin scaffolding, team kits, the Cursor SDK, and the Grok Bot Tailscale networking helper).
 
@@ -27,13 +29,21 @@ One entry per product. If two catalog plugins are the same product, keep the off
 
 ## contents/ conventions
 
-- One markdown file per service under `contents/<category>/`.
+- One markdown file per service under `contents/<category>/` or `contents/<category>/<subcategory>/`.
 - Every folder has `_meta.md` with YAML `title:` and a short English description in the body.
-- Service frontmatter is `name` and `link`. Optional `tags` are short labels. The seed uses `grok-bot` for items from the Grok Bot Connect Apps catalog (snapshot 2026-11-07). Do not add a `command` field.
-- `link` is the official public product homepage or docs hub. Never use `https://cursor.com/grok-bot/link/v1/plugin/add?id=...`. Strip UTM, referral, and affiliate parameters.
-- English throughout. Keep entries factual. Do not invent features, plan limits, or URLs.
+- Add a subcategory only when a coherent cluster already exists in that category. Do not add empty placeholder folders. Small coherent categories stay flat.
+- Service frontmatter is `name` and `link`. Do not add a `command` field.
+- `tags` record verified connection methods on the service. They do not decide which folder a service is in. Vocabulary:
+  - `mcp` — official or vendor-hosted Model Context Protocol server.
+  - `skill` — Agent Skill (`SKILL.md` or packaged skills the vendor ships).
+  - `grok-bot` — listed in the Grok Bot Connect Apps catalog (connector and/or skills there). The seed snapshot is 2026-11-07.
+  - `cli` — official command-line interface intended for humans and agents.
+  - `chatgpt` — official ChatGPT app or Actions published by the vendor.
+- Only add a tag you have verified. A Grok Bot catalog connector is not `mcp`. Do not invent connection methods. Another protocol (for example `a2a`) may be a tag only when a listed service actually offers that surface.
+- `link` is the official public product homepage or docs hub. Never use an MCP install URL, a skill gist, or `https://cursor.com/grok-bot/link/v1/plugin/add?id=...`. Strip UTM, referral, and affiliate parameters.
+- English throughout. Keep entries factual. Do not invent features, plan limits, or URLs. You may mention verified connection methods in one short factual sentence. The tags are the structured record.
 - If a product could sit in two categories, pick one primary home and mention the other surface in the body.
-- Do not create top-level sections named MCP, Featured, or Canvas.
+- Entries are services. Do not classify the list by connection type, and do not create a category or subcategory named MCP, Skill, Grok Bot, CLI, ChatGPT, Featured, or Canvas.
 - Do not add this repo as a submodule of the Awesome meta repo, and do not edit yaal's own README, from a contents PR. The maintainer will do that later.
 
 Services that were in the Connect Apps catalog but had no verified official homepage are listed in `SEED-GAPS.md`, with the catalog name and the reason.

@@ -2,4 +2,4 @@
 title: Infrastructure
 ---
 
-Cloud, hosting, data stores, observability, and security platforms an agent can operate.
+Cloud, hosting, code hosts, containers, databases, security, and the other platforms an agent can operate.
