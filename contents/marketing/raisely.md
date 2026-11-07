@@ -1,7 +1,7 @@
 ---
 name: "Raisely"
 link: "https://www.raisely.com/"
-tags: [grok-bot]
+tags: [skill, grok-bot]
 ---
 
 Query and manage Raisely campaigns, donations, and supporters.

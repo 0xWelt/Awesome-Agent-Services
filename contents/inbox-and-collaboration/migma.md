@@ -1,7 +1,0 @@
----
-name: "Migma"
-link: "https://migma.ai/"
-tags: [grok-bot]
----
-
-Run your entire email marketing and Grok Bot. Migma designs on-brand campaigns, sends when you approve, and gets better with every send.
