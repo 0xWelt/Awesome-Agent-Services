@@ -1,6 +1,7 @@
 ---
 name: "Treg"
 link: "https://treg.to/"
+image: "https://treg.to/media/og.png"
 tags: [skill, grok-bot]
 ---
 

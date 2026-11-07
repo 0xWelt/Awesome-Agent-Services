@@ -1,6 +1,7 @@
 ---
 name: "Cello"
 link: "https://cello.so/"
+image: "https://cello.so/wp-content/uploads/2022/12/Group-174900-1.png"
 tags: [mcp, skill, grok-bot]
 ---
 

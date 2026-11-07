@@ -1,6 +1,7 @@
 ---
 name: "Convex"
 link: "https://www.convex.dev/"
+image: "https://www.convex.dev/og-home.png"
 tags: [grok-bot, cli]
 ---
 

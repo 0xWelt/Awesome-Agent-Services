@@ -1,6 +1,7 @@
 ---
 name: "Browserstack"
 link: "https://www.browserstack.com/"
+image: "https://bstackprod.kinsta.cloud/wp-content/themes/browserstack/img/brand-v2/share-image.png"
 tags: [skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Meticulous"
 link: "https://www.meticulous.ai/"
+image: "https://www.meticulous.ai/images/social-graph-image.png"
 tags: [skill, grok-bot]
 ---
 

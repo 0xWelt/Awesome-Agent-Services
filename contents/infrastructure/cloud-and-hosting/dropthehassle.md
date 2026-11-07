@@ -1,6 +1,7 @@
 ---
 name: "DropTheHassle"
 link: "https://dropthehassle.com"
+image: "https://dropthehassle.com/og-image.png"
 tags: [mcp, cli]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "CurlShot"
 link: "https://curlshot.com"
+image: "https://curlshot.com/api/og-image?title=CurlShot+-+Take+a+screenshot+of+any+website%2C+online+or+by+API"
 tags: [mcp, cli]
 ---
 

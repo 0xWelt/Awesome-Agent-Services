@@ -1,6 +1,7 @@
 ---
 name: "Vicem"
 link: "https://github.com/RAKKUNN/vicem"
+image: "https://repository-images.githubusercontent.com/1432383405/df41741d-605f-471a-81de-ba8306d92d31"
 tags: [mcp, skill, cli]
 ---
 

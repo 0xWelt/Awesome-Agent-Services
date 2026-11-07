@@ -1,6 +1,7 @@
 ---
 name: "Netlify"
 link: "https://www.netlify.com/"
+image: "https://www.netlify.com/images/og-image-default.png"
 tags: [skill, grok-bot, cli]
 ---
 

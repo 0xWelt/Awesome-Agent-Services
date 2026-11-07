@@ -1,6 +1,7 @@
 ---
 name: "Resend"
 link: "https://resend.com/"
+image: "https://resend.com/static/cover.jpg"
 tags: [skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Buildkite"
 link: "https://buildkite.com/home/"
+image: "https://buildkite.com/_astro/default.B_ATDsTs.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

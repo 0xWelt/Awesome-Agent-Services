@@ -1,6 +1,7 @@
 ---
 name: "Razorpay"
 link: "https://razorpay.com/us/"
+image: "https://framerusercontent.com/assets/VC391DHVUb4oJEd8t6YOwhxCo4.webp"
 tags: [grok-bot]
 ---
 

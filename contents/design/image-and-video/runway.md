@@ -1,6 +1,7 @@
 ---
 name: "Runway"
 link: "https://runwayml.com/"
+image: "https://d3phaj0sisr2ct.cloudfront.net/site/assets/homepage-og-card-v3.webp"
 tags: [skill, grok-bot]
 ---
 

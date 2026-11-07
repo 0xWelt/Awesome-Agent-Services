@@ -1,6 +1,7 @@
 ---
 name: "Firecrawl"
 link: "https://www.firecrawl.dev/"
+image: "https://www.firecrawl.dev/og.png"
 tags: [mcp, skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "1inch"
 link: "https://1inch.io/"
+image: "https://1inch.com/assets/1inch-com-cover.png"
 tags: [mcp, skill, grok-bot]
 ---
 

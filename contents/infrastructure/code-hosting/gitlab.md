@@ -1,6 +1,7 @@
 ---
 name: "GitLab"
 link: "https://about.gitlab.com/"
+image: "https://about.gitlab.com/img/og?title=GitLab+-+Speed+with+control+for+agentic+software+engineering"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

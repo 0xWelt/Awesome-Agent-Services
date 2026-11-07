@@ -1,6 +1,7 @@
 ---
 name: "Vercel"
 link: "https://vercel.com/"
+image: "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/og-home-not-x.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

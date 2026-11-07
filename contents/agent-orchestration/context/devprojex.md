@@ -1,6 +1,7 @@
 ---
 name: "DevProjex"
 link: "https://github.com/Avazbek22/DevProjex"
+image: "https://repository-images.githubusercontent.com/1011344357/8f880d69-4a86-47e4-bbbb-152d86fe6767"
 tags: [mcp, cli]
 ---
 

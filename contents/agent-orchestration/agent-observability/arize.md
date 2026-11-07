@@ -1,6 +1,7 @@
 ---
 name: "Arize"
 link: "https://arize.com/"
+image: "https://arize.com/wp-content/uploads/2026/08/Featured-image-Homepage.jpg"
 tags: [skill, grok-bot]
 ---
 

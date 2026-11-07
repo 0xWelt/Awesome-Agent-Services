@@ -1,6 +1,7 @@
 ---
 name: "Deriv"
 link: "https://deriv.com/"
+image: "https://media.ffycdn.net/eu/deriv/xFXXgiBKznztkfsWnpgs.webp"
 tags: [skill, grok-bot]
 ---
 

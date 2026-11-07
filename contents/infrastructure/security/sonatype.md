@@ -1,6 +1,7 @@
 ---
 name: "Sonatype"
 link: "https://www.sonatype.com/"
+image: "https://www.sonatype.com/hubfs/1-2025_Website-Assets/logos/logo.png"
 tags: [mcp, skill, grok-bot]
 ---
 

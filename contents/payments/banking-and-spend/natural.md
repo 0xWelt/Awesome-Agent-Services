@@ -1,6 +1,7 @@
 ---
 name: "Natural"
 link: "https://www.natural.com/"
+image: "https://www.natural.com/opengraph.jpg"
 tags: [grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Encore"
 link: "https://encore.dev/"
+image: "https://encore.dev/assets/branding/social_card_2026.png"
 tags: [skill, grok-bot, cli]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Pascal"
 link: "https://www.pascal.app/"
+image: "https://pascal.app/og"
 tags: [mcp, skill, grok-bot]
 ---
 

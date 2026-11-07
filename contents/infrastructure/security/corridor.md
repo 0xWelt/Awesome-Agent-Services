@@ -1,6 +1,7 @@
 ---
 name: "Corridor"
 link: "https://www.corridor.dev/"
+image: "https://www.corridor.dev/og-image.png"
 tags: [skill, grok-bot]
 ---
 

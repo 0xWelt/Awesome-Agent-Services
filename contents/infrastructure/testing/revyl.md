@@ -1,6 +1,7 @@
 ---
 name: "Revyl"
 link: "https://revyl.com/"
+image: "https://revyl.com/og-image.png"
 tags: [skill, grok-bot]
 ---
 

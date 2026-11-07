@@ -1,6 +1,7 @@
 ---
 name: "ElevenLabs"
 link: "https://elevenlabs.io/"
+image: "https://elevenlabs.io/cover.png"
 tags: [mcp, skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Aave"
 link: "https://aave.com/"
+image: "https://aave.com/og/default.png"
 tags: [mcp, skill, grok-bot]
 ---
 

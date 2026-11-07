@@ -1,6 +1,7 @@
 ---
 name: "Auth0"
 link: "https://auth0.com/"
+image: "https://cdn.auth0.com/website/homepage/sharecard.png"
 tags: [mcp, skill, grok-bot]
 ---
 

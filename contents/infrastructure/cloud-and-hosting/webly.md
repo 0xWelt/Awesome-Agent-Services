@@ -1,6 +1,7 @@
 ---
 name: "Webly"
 link: "https://webly.ai"
+image: "https://webly.ai/opengraph-image.png?e168cc2422ee46be="
 ---
 tags: [mcp]
 ---

@@ -1,6 +1,7 @@
 ---
 name: "snowflake"
 link: "https://www.snowflake.com/en/"
+image: "https://www.snowflake.com/content/dam/snowflake-site/general/technical/default-og-image/snowflake-social-share.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

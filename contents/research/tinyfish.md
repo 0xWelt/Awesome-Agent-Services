@@ -1,6 +1,7 @@
 ---
 name: "TinyFish"
 link: "https://www.tinyfish.ai/"
+image: "https://www.tinyfish.ai/opengraph-image"
 tags: [grok-bot]
 ---
 

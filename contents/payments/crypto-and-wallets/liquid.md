@@ -1,6 +1,7 @@
 ---
 name: "Liquid"
 link: "https://www.liquid.trade/"
+image: "https://www.liquid.trade/og-image.png"
 tags: [skill, grok-bot]
 ---
 

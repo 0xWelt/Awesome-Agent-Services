@@ -1,6 +1,7 @@
 ---
 name: "Atlan"
 link: "https://atlan.com/"
+image: "https://atlan.com/images/home-2026/hp-2026-og.png"
 tags: [grok-bot]
 ---
 

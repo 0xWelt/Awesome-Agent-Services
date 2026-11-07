@@ -1,6 +1,7 @@
 ---
 name: "Railway"
 link: "https://railway.com/"
+image: "https://railway.com/og.png?v=2"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

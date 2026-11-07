@@ -1,6 +1,7 @@
 ---
 name: "UberLLM"
 link: "https://uberllm.dev"
+image: "https://uberllm.dev/og/home.png?v=2"
 tags: [mcp]
 ---
 

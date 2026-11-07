@@ -1,6 +1,7 @@
 ---
 name: "Sanity"
 link: "https://www.sanity.io/"
+image: "https://cdn.sanity.io/images/3do82whm/next/f21df064721ee7867372278bcbd0de4b512de556-1200x630.png"
 tags: [skill, grok-bot, cli]
 ---
 

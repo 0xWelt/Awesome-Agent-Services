@@ -1,6 +1,7 @@
 ---
 name: "Whop"
 link: "https://whop.com/"
+image: "https://whop.com/_static/images/discover/og-landing.png"
 tags: [grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Dropbox"
 link: "https://www.dropbox.com/"
+image: "https://cfl.dropboxstatic.com/static/metaserver/static/images/logo_catalog/dropbox_opengraph_image%402x.png"
 tags: [skill, grok-bot]
 ---
 

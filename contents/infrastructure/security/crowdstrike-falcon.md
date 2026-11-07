@@ -1,6 +1,7 @@
 ---
 name: "CrowdStrike Falcon"
 link: "https://www.crowdstrike.com/en-us/"
+image: "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
 tags: [mcp, skill, grok-bot]
 ---
 

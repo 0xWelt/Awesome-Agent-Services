@@ -1,6 +1,7 @@
 ---
 name: "Exa"
 link: "https://exa.ai/"
+image: "https://exa.imgix.net/og-image-v4.png/"
 tags: [mcp, skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "ScyllaDB"
 link: "https://www.scylladb.com/"
+image: "https://www.scylladb.com/wp-content/uploads/1200x628-og-default-2.jpg"
 tags: [skill, grok-bot]
 ---
 

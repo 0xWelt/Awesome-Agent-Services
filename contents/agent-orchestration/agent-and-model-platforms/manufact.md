@@ -1,6 +1,7 @@
 ---
 name: "Manufact"
 link: "https://manufact.com/"
+image: "https://manufact.com/og-image.jpg"
 tags: [skill, grok-bot]
 ---
 

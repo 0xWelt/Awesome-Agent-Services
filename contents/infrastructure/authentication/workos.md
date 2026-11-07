@@ -1,6 +1,7 @@
 ---
 name: "WorkOS"
 link: "https://workos.com/"
+image: "https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/627321b887917b110d342e2b_homepage.png"
 tags: [mcp, skill, grok-bot]
 ---
 

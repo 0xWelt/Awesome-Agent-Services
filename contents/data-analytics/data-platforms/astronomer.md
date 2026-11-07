@@ -1,6 +1,7 @@
 ---
 name: "Astronomer"
 link: "https://www.astronomer.io/"
+image: "https://www.astronomer.io/images/featured-image-homepage.jpg"
 tags: [skill, grok-bot, cli]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "NeverApply"
 link: "https://neverapply.co/"
+image: "https://neverapply.co/og-image/9dc354ec5610451da0b2433d5121cb27.jpeg"
 tags: [mcp]
 ---
 

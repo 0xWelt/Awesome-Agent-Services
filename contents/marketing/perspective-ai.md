@@ -1,6 +1,7 @@
 ---
 name: "Perspective AI"
 link: "https://getperspective.ai/"
+image: "https://getperspective.ai/perspectiveai.png"
 tags: [mcp, skill, grok-bot]
 ---
 

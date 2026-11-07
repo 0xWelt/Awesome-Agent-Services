@@ -1,6 +1,7 @@
 ---
 name: "Jotform"
 link: "https://www.jotform.com/"
+image: "https://cdn.jotfor.ms/assets/img/landing/opengraph.png"
 tags: [mcp, grok-bot]
 ---
 

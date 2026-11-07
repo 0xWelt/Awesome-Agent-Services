@@ -1,6 +1,7 @@
 ---
 name: "GetYouTubeTranscript"
 link: "https://getyoutubetranscript.com"
+image: "https://getyoutubetranscript.com/images/og.png"
 tags: [mcp, cli]
 ---
 

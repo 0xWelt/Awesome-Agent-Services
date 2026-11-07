@@ -1,6 +1,7 @@
 ---
 name: "GitBook"
 link: "https://www.gitbook.com/"
+image: "https://framerusercontent.com/assets/1IBeoRkP2RzVeGtGFLDk6w0lmEQ.png"
 tags: [skill, grok-bot]
 ---
 

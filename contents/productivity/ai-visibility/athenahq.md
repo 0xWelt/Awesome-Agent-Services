@@ -1,6 +1,7 @@
 ---
 name: "athenahq"
 link: "https://athenahq.ai/"
+image: "https://athenahq.ai/share/ogp.png"
 tags: [mcp, skill, grok-bot]
 ---
 

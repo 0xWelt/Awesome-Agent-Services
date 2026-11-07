@@ -1,6 +1,7 @@
 ---
 name: "Zscaler"
 link: "https://www.zscaler.com/"
+image: "https://www.zscaler.com/assets/images/zscaler-og-image.jpg"
 tags: [mcp, grok-bot]
 ---
 

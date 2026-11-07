@@ -1,6 +1,7 @@
 ---
 name: "Redis"
 link: "https://redis.io/"
+image: "https://redis.io/_next/static/immutable/media/open-graph.2wot1rsqh2ybe.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

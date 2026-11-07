@@ -1,6 +1,7 @@
 ---
 name: "Windmill HR"
 link: "https://gowindmill.com/"
+image: "https://gowindmill.com/index.png/"
 tags: [skill, grok-bot]
 ---
 

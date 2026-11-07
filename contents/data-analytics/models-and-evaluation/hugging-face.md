@@ -1,6 +1,7 @@
 ---
 name: "Hugging Face"
 link: "https://huggingface.co/"
+image: "https://huggingface.co/front/thumbnails/v2-2.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Databricks"
 link: "https://www.databricks.com/"
+image: "https://www.databricks.com/sites/default/files/2023-11/databricks-og-universal.png"
 tags: [skill, grok-bot, cli]
 ---
 

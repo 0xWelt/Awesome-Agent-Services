@@ -1,6 +1,7 @@
 ---
 name: "Notion"
 link: "https://www.notion.com/"
+image: "https://www.notion.com/front-static/meta/teams-and-agents.jpg"
 tags: [mcp, skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Soundza"
 link: "https://soundza.com"
+image: "https://soundza.com/og-default.png"
 tags: [mcp, skill]
 ---
 

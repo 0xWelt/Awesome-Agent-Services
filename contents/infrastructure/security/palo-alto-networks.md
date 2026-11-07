@@ -1,6 +1,7 @@
 ---
 name: "Palo Alto Networks"
 link: "https://www.paloaltonetworks.com/"
+image: "https://www.paloaltonetworks.com/etc/clientlibs/pan-templates/seoimages/social-panw.png"
 tags: [grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "toolkb-mcp"
 link: "https://github.com/jack-reson8/toolkb-mcp"
+image: "https://opengraph.githubassets.com/aa276501594d12bfe7dc89b90d8227a7fb44f252deb55989cbd3b8abc686d0b3/jack-reson8/toolkb-mcp"
 tags: [mcp]
 ---
 

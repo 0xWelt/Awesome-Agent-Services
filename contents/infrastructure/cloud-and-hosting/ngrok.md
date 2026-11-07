@@ -1,6 +1,7 @@
 ---
 name: "ngrok"
 link: "https://ngrok.com/"
+image: "https://ngrok.com/assets/home/og-image.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "kubectl"
 link: "https://kubernetes.io/"
+image: "https://kubernetes.io/images/kubernetes-open-graph.png"
 tags: [cli]
 ---
 

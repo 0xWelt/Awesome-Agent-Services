@@ -1,6 +1,7 @@
 ---
 name: "Fireflies"
 link: "https://fireflies.ai/"
+image: "https://fireflies.ai/thumbnail.png"
 tags: [mcp, grok-bot]
 ---
 

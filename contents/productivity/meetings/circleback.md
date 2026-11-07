@@ -1,6 +1,7 @@
 ---
 name: "Circleback"
 link: "https://circleback.ai/"
+image: "https://circleback.ai/marketing/og/default.png"
 tags: [mcp, grok-bot]
 ---
 

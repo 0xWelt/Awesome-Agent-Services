@@ -1,6 +1,7 @@
 ---
 name: "Pinecone"
 link: "https://www.pinecone.io/"
+image: "https://www.pinecone.io/api/og/?title=Trusted+knowledge+for&highlight=AI+in+production&alignment=center"
 tags: [skill, grok-bot]
 ---
 

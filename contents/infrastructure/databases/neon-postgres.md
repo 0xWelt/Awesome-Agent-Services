@@ -1,6 +1,7 @@
 ---
 name: "Neon Postgres"
 link: "https://neon.com/"
+image: "https://neon.com/images/social-previews/index.jpg?updated=2026-05-27"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

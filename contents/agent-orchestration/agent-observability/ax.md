@@ -1,6 +1,7 @@
 ---
 name: "ax"
 link: "https://github.com/Necmttn/ax"
+image: "https://repository-images.githubusercontent.com/1232710515/2a715a29-2e0e-48d3-ae61-994733d81ee9"
 tags: [mcp, cli]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "viberank"
 link: "https://viberank.app"
+image: "https://www.viberank.app/opengraph-image?a7b9593fd0df55f0="
 tags: [cli]
 ---
 

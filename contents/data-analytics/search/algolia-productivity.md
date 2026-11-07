@@ -1,6 +1,7 @@
 ---
 name: "Algolia Productivity"
 link: "https://www.algolia.com/"
+image: "https://www.algolia.com/files/live/sites/algolia-assets/files/opengraph/algolia-opengraph-image.jpg"
 tags: [mcp, grok-bot, cli]
 ---
 

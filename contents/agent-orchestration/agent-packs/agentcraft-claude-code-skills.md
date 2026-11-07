@@ -1,6 +1,7 @@
 ---
 name: "AgentCraft Claude Code Skills"
 link: "https://agentcraft.dev"
+image: "https://agentcraft.dev/og-cover.webp"
 tags: [skill]
 ---
 

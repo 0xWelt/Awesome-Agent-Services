@@ -1,6 +1,7 @@
 ---
 name: "Coder"
 link: "https://coder.com/"
+image: "https://coder.com/_next/static/media/OpenGraph.f7fb2003.jpg"
 tags: [skill, grok-bot, cli]
 ---
 

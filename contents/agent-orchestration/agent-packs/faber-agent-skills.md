@@ -1,6 +1,7 @@
 ---
 name: "Faber agent skills"
 link: "https://faberlang.dev"
+image: "https://faberlang.dev/images/triga-budapest.png"
 tags: [skill]
 ---
 

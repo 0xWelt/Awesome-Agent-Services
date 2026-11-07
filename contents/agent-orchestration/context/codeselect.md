@@ -1,6 +1,7 @@
 ---
 name: "CodeSelect"
 link: "https://github.com/maynetee/codeselect"
+image: "https://opengraph.githubassets.com/c49006b66770ea88bceef8c78eaf09678c48dfabcf4428953aafadc310db44cd/maynetee/codeselect"
 tags: [cli]
 ---
 

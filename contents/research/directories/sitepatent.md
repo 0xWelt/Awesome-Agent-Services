@@ -1,6 +1,7 @@
 ---
 name: "SitePatent"
 link: "https://sitepatent.com"
+image: "https://sitepatent.com/uploads/d4047f3b-1263-4e54-96eb-a784c83a8d95.webp"
 ---
 tags: [mcp]
 ---

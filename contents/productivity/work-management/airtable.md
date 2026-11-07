@@ -1,6 +1,7 @@
 ---
 name: "Airtable"
 link: "https://www.airtable.com/"
+image: "https://cdn.sanity.io/images/hlcyrtq5/production/00c20d5108d1335f5a243ddcd70ea4a2d6d9a844-1200x630.webp"
 tags: [mcp, skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Aident Loadout"
 link: "https://aident.ai"
+image: "https://aident.ai/assets/loadout/hero-ui@2x.png"
 tags: [mcp, skill, cli]
 ---
 

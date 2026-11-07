@@ -1,6 +1,7 @@
 ---
 name: "Ando"
 link: "https://www.ando.so/"
+image: "https://www.ando.so/og/home-loop-poster.jpg"
 tags: [skill, grok-bot]
 ---
 

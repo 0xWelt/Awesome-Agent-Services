@@ -1,6 +1,7 @@
 ---
 name: "Freight Right"
 link: "https://www.freightright.com/"
+image: "https://www.freightright.com/assets/images/og-logo.jpg"
 tags: [mcp, skill, grok-bot]
 ---
 

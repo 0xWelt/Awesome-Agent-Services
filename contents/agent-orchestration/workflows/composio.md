@@ -1,6 +1,7 @@
 ---
 name: "Composio"
 link: "https://composio.dev/"
+image: "https://composio.dev/og.png"
 tags: [mcp, skill, grok-bot]
 ---
 

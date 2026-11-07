@@ -1,6 +1,7 @@
 ---
 name: "SkillHey"
 link: "https://skillhey.com"
+image: "https://skillhey.com/social/skillhey-home-v1.jpg"
 tags: [skill]
 ---
 

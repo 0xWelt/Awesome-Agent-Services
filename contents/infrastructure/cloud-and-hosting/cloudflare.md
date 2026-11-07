@@ -1,6 +1,7 @@
 ---
 name: "Cloudflare"
 link: "https://www.cloudflare.com/"
+image: "https://www.cloudflare.com/preview.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

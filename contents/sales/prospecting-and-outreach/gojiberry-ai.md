@@ -1,6 +1,7 @@
 ---
 name: "Gojiberry AI"
 link: "https://gojiberry.ai/"
+image: "https://framerusercontent.com/images/P1bzzsau51rSZMvTLbBEBMIcYfc.png"
 tags: [grok-bot]
 ---
 

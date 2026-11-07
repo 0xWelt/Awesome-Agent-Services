@@ -1,6 +1,7 @@
 ---
 name: "Read AI"
 link: "https://www.read.ai/"
+image: "https://readai-assets-production.s3.us-east-1.amazonaws.com/readai_images/Instant_Meeting_Summary.png"
 tags: [grok-bot]
 ---
 

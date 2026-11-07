@@ -1,6 +1,7 @@
 ---
 name: "Firebase"
 link: "https://firebase.google.com/"
+image: "https://firebase.google.com/images/social.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

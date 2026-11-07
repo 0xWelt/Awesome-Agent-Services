@@ -1,6 +1,7 @@
 ---
 name: "Scaleway"
 link: "https://www.scaleway.com/"
+image: "https://www-uploads.scaleway.com/Scaleway_3_D_Logo_57e7fb833f.png"
 tags: [cli]
 ---
 

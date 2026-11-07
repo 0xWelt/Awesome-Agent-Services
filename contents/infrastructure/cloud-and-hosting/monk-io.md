@@ -1,6 +1,7 @@
 ---
 name: "Monk.io"
 link: "https://monk.io/"
+image: "https://monk.io/og/home.png"
 tags: [skill, grok-bot]
 ---
 

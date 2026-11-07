@@ -1,6 +1,7 @@
 ---
 name: "Golf Intelligence by Stracka"
 link: "https://golfintelligence.com/"
+image: "https://golfintelligence.com/img/brand/og-image.png"
 tags: [skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Apify"
 link: "https://apify.com/"
+image: "https://apify.com/og-image?title=Thousands+of+tools%0Afor+your+AI"
 tags: [mcp, skill, grok-bot]
 ---
 

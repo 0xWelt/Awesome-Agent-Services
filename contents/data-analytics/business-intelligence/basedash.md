@@ -1,6 +1,7 @@
 ---
 name: "Basedash"
 link: "https://www.basedash.com/"
+image: "https://www.basedash.com/og/home.png"
 tags: [mcp, skill, grok-bot]
 ---
 

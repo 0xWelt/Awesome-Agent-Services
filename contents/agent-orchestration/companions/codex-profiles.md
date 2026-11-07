@@ -1,6 +1,7 @@
 ---
 name: "codex-profiles"
 link: "https://github.com/Ducksss/codex-profiles"
+image: "https://opengraph.githubassets.com/af9a471bb5d8114a65af017fd057fb544106dd6229cfa595fc933c0302134d2c/Ducksss/codex-profiles"
 tags: [cli]
 ---
 

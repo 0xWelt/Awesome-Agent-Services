@@ -1,6 +1,7 @@
 ---
 name: "PlanetScale"
 link: "https://planetscale.com/"
+image: "https://planetscale.com/assets/homepage-social-Yera6DPM.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

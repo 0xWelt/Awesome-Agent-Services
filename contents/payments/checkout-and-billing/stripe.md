@@ -1,6 +1,7 @@
 ---
 name: "Stripe"
 link: "https://stripe.com/"
+image: "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/stripe.37119086.jpg"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

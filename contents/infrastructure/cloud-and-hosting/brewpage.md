@@ -1,6 +1,7 @@
 ---
 name: "BrewPage"
 link: "https://brewpage.app"
+image: "https://brewpage.app/og-image.png?v=3"
 ---
 tags: [mcp, skill]
 ---

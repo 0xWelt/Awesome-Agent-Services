@@ -1,6 +1,7 @@
 ---
 name: "OpenSearch"
 link: "https://opensearch.org/"
+image: "https://opensearch.org/wp-content/uploads/2025/01/OpenSearch-Feature-Image.png"
 tags: [skill, grok-bot]
 ---
 

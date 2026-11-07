@@ -1,6 +1,7 @@
 ---
 name: "Zoho CRM"
 link: "https://www.zoho.com/crm/"
+image: "https://www.zohowebstatic.com/sites/zweb/images/ogimage/crm-logo.png"
 tags: [grok-bot]
 ---
 

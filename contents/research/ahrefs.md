@@ -1,6 +1,7 @@
 ---
 name: "Ahrefs"
 link: "https://ahrefs.com/"
+image: "https://static.ahrefs.com/assets/img/og/ahrefs.png?v=2"
 tags: [mcp, grok-bot]
 ---
 

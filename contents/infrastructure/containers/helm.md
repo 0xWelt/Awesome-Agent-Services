@@ -1,6 +1,7 @@
 ---
 name: "Helm"
 link: "https://helm.sh/"
+image: "https://helm.sh/img/helm-social-card.png"
 tags: [cli]
 ---
 

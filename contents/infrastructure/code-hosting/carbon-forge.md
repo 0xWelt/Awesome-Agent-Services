@@ -1,6 +1,7 @@
 ---
 name: "Carbon Forge"
 link: "https://carbonforge.dev"
+image: "https://carbonforge.dev/_site/og/home.png"
 tags: [mcp]
 ---
 

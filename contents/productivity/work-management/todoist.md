@@ -1,6 +1,7 @@
 ---
 name: "Todoist"
 link: "https://www.todoist.com/"
+image: "https://www.todoist.com/static/ogimages/en/og-image-home.png"
 tags: [mcp, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Turborepo"
 link: "https://turbo.build/"
+image: "https://ufa25dqjajkmio0q.public.blob.vercel-storage.com/og-homepage.png"
 tags: [cli]
 ---
 

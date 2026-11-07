@@ -1,6 +1,7 @@
 ---
 name: "Box"
 link: "https://www.box.com/"
+image: "https://assets.box.com/sites/default/files/box_default_og_sharing_image/box-social.jpg"
 tags: [skill, grok-bot]
 ---
 
