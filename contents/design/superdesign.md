@@ -1,0 +1,7 @@
+---
+name: "Superdesign"
+link: "https://superdesign.dev/"
+tags: [grok-bot]
+---
+
+Design or redesign frontend UI, presentations, and marketing graphics on the Superdesign infinite canvas. Uses approved slide outlines, project context, and branchable drafts you refine.
