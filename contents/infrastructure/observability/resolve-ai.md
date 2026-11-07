@@ -1,6 +1,7 @@
 ---
 name: "Resolve AI"
 link: "https://resolve.ai/"
+image: "https://resolve.ai/og/home.jpg"
 tags: [mcp, skill, grok-bot]
 ---
 

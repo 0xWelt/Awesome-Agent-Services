@@ -1,6 +1,7 @@
 ---
 name: "Mem0"
 link: "https://mem0.ai/"
+image: "https://framerusercontent.com/assets/m2fO4objP393CDqaWh7P97R9S5w.png"
 tags: [mcp, skill, grok-bot]
 ---
 

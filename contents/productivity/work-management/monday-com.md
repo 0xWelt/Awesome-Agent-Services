@@ -1,6 +1,7 @@
 ---
 name: "Monday.com"
 link: "https://monday.com/"
+image: "https://s3.amazonaws.com/general-assets/monday-1200x628.png"
 tags: [mcp, skill, grok-bot]
 ---
 

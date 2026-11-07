@@ -1,6 +1,7 @@
 ---
 name: "HeyGen"
 link: "https://www.heygen.com/"
+image: "https://cdn.sanity.io/images/pdhqcmb1/production/e6fbae484791e59b8d30413bb33dda951fb1027c-1200x630.png?fit=max&fm=png"
 tags: [skill, grok-bot]
 ---
 

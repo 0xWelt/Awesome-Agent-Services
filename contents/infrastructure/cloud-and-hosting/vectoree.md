@@ -1,6 +1,7 @@
 ---
 name: "Vectoree"
 link: "https://vectoree.ai"
+image: "https://vectoree.ai/og-home.png"
 tags: [skill, cli]
 ---
 

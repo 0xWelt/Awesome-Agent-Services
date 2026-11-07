@@ -1,6 +1,7 @@
 ---
 name: "DigitalOcean"
 link: "https://www.digitalocean.com/"
+image: "https://www.digitalocean.com/_do-www-marketing/25325f8e/_next/static/media/social-share-default.e8530e9e.jpeg"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

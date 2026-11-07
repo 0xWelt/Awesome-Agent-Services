@@ -1,6 +1,7 @@
 ---
 name: "here.now"
 link: "https://here.now/"
+image: "https://here.now/herenow-opengraph4.png"
 tags: [skill, grok-bot]
 ---
 

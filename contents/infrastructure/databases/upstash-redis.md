@@ -1,6 +1,7 @@
 ---
 name: "Upstash Redis"
 link: "https://upstash.com/"
+image: "https://upstash.com/og-home.jpg"
 tags: [skill, grok-bot]
 ---
 

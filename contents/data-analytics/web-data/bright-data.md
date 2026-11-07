@@ -1,6 +1,7 @@
 ---
 name: "Bright Data"
 link: "https://brightdata.com/"
+image: "https://media.brightdata.com/2026/05/OG_EN.jpg"
 tags: [mcp, skill, grok-bot]
 ---
 

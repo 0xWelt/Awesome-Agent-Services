@@ -1,6 +1,7 @@
 ---
 name: "Catalyst by Zoho"
 link: "https://catalyst.zoho.com/"
+image: "https://www.zohowebstatic.com/sites/zweb/images/ogimage/catalyst-logo.png"
 tags: [skill, grok-bot]
 ---
 

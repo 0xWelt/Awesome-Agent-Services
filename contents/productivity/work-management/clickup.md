@@ -1,6 +1,7 @@
 ---
 name: "ClickUp"
 link: "https://clickup.com/"
+image: "https://clickup.com/assets/brand/clickup-meta.png"
 tags: [skill, grok-bot]
 ---
 

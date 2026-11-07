@@ -1,6 +1,7 @@
 ---
 name: "Apollo.io"
 link: "https://www.apollo.io/"
+image: "https://www.apollo.io/og-images/home.jpg"
 tags: [mcp, skill, grok-bot]
 ---
 

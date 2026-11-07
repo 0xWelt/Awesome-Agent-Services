@@ -1,6 +1,7 @@
 ---
 name: "turbopuffer"
 link: "https://turbopuffer.com/"
+image: "https://turbopuffer.com/og/turbopuffer.png"
 tags: [skill, grok-bot]
 ---
 

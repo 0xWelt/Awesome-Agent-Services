@@ -1,6 +1,7 @@
 ---
 name: "QuiverAI"
 link: "https://quiver.ai/"
+image: "https://quiver.ai/og.png"
 tags: [skill, grok-bot]
 ---
 

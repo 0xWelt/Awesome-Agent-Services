@@ -1,6 +1,7 @@
 ---
 name: "Phantom"
 link: "https://phantom.com/"
+image: "https://phantom.com/_web_platform_assets/images/og-image.jpg"
 tags: [skill, grok-bot]
 ---
 

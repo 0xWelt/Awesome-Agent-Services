@@ -1,6 +1,7 @@
 ---
 name: "DESIGN:OS Code2Flow"
 link: "https://github.com/jangtrinh/design-os-code2flow"
+image: "https://opengraph.githubassets.com/eb959653b7485818ad607f1d2634fcd4c59d3711c4d53f621b09790d3fe65ee6/jangtrinh/design-os-code2flow"
 tags: [skill, cli]
 ---
 

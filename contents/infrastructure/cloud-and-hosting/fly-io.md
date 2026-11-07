@@ -1,6 +1,7 @@
 ---
 name: "Fly.io"
 link: "https://fly.io/"
+image: "https://fly.io/phx/images/og/home-8f51ecc065542ebfe86badc4143a197d.jpg?vsn=d"
 tags: [cli]
 ---
 

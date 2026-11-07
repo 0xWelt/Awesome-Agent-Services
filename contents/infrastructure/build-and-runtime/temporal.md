@@ -1,6 +1,7 @@
 ---
 name: "Temporal"
 link: "https://temporal.io/"
+image: "https://temporal.io/images/open-graph/shiny.png"
 tags: [skill, grok-bot, cli]
 ---
 

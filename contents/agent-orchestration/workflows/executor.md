@@ -1,6 +1,7 @@
 ---
 name: "Executor"
 link: "https://executor.sh/"
+image: "https://executor.sh/og-image.png"
 tags: [skill, grok-bot]
 ---
 

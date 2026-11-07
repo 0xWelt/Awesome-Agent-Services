@@ -1,6 +1,7 @@
 ---
 name: "Glean"
 link: "https://www.glean.com/"
+image: "https://cdn.prod.website-files.com/6127a84dfe068e153ef20572/6a32d8d3a0ba8d6de9564470_Homepage.png"
 tags: [mcp, skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Zoom"
 link: "https://zoom.us/"
+image: "https://st1.zoom.us/homepage/20261105-2009/primary/dist/assets/images/thumb.png"
 tags: [mcp, grok-bot]
 ---
 

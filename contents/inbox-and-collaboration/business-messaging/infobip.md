@@ -1,6 +1,7 @@
 ---
 name: "Infobip"
 link: "https://www.infobip.com/"
+image: "https://cdn-web.infobip.com/uploads/2023/01/Frame-6770-1.png"
 tags: [mcp, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "UI Verify"
 link: "https://uiverify.ai"
+image: "https://uiverify.ai/opengraph-image?6eae9d61649714ec="
 tags: [mcp, cli]
 ---
 

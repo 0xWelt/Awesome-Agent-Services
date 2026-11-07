@@ -1,6 +1,7 @@
 ---
 name: "SwarmVault"
 link: "https://github.com/swarmclawai/swarmvault"
+image: "https://opengraph.githubassets.com/729d72f45443aa08e22aa6c2810ff1c875d2fabeafba69db26a9b56264b4295b/swarmclawai/swarmvault"
 tags: [mcp]
 ---
 

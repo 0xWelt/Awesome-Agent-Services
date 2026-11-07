@@ -1,6 +1,7 @@
 ---
 name: "Sqwakie"
 link: "https://sqwakie.si"
+image: "https://sqwakie.si/assets/img/og.jpg"
 tags: [mcp, cli]
 ---
 

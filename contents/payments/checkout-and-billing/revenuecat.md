@@ -1,6 +1,7 @@
 ---
 name: "RevenueCat"
 link: "https://www.revenuecat.com/"
+image: "https://www.revenuecat.com/social-previews/index.jpg"
 tags: [skill, grok-bot]
 ---
 

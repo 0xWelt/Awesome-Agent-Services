@@ -1,6 +1,7 @@
 ---
 name: "Antimetal"
 link: "https://antimetal.com/"
+image: "https://antimetal.com/images/share/default.jpg"
 tags: [skill, grok-bot]
 ---
 

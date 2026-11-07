@@ -1,6 +1,7 @@
 ---
 name: "postiz"
 link: "https://postiz.com/"
+image: "https://cms.postiz.com/wp-content/uploads/2024/06/OG-1-1024x538.png"
 tags: [skill, grok-bot]
 ---
 

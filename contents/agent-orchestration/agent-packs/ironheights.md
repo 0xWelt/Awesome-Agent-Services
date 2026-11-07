@@ -1,6 +1,7 @@
 ---
 name: "Ironheights"
 link: "https://github.com/Frank-Masciopinto/ironheights"
+image: "https://opengraph.githubassets.com/79a938e7d506ba234ee7c935a8bdfb5e119ce3c34085a363523e0581c9cb400a/Frank-Masciopinto/ironheights"
 tags: [skill, cli]
 ---
 

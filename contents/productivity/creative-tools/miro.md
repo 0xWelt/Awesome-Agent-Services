@@ -1,6 +1,7 @@
 ---
 name: "Miro"
 link: "https://miro.com/"
+image: "https://framerusercontent.com/assets/Bab0War93Jeq5MpDPwqKFiyI.png"
 tags: [mcp, skill, grok-bot]
 ---
 

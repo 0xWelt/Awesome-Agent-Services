@@ -1,6 +1,7 @@
 ---
 name: "Alpaca"
 link: "https://alpaca.markets/"
+image: "https://alpaca.markets/static/images/meta-image-homepage.png"
 tags: [grok-bot]
 ---
 

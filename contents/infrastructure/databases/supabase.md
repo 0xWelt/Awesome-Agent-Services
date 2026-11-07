@@ -1,6 +1,7 @@
 ---
 name: "Supabase"
 link: "https://supabase.com/"
+image: "https://supabase.com/images/og/supabase-og.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

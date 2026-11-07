@@ -1,6 +1,7 @@
 ---
 name: "Ryze AI"
 link: "https://www.get-ryze.ai/"
+image: "https://www.get-ryze.ai/og-card.jpg"
 tags: [grok-bot]
 ---
 

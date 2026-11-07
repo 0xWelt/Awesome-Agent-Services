@@ -1,6 +1,7 @@
 ---
 name: "Oh My Android"
 link: "https://github.com/ateymoori/oh-my-android"
+image: "https://repository-images.githubusercontent.com/1385064931/325518a9-efc5-4b16-8e87-29a2fce9db4a"
 tags: [mcp]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "MEDIAPRONET"
 link: "https://mediapronet.com"
+image: "https://mediapronet.com/uploads/f1912b20-cbd7-4627-8b83-6348e8e28c60.webp"
 ---
 tags: [mcp]
 ---

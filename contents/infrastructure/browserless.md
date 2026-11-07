@@ -1,6 +1,7 @@
 ---
 name: "Browserless"
 link: "https://www.browserless.io/"
+image: "https://www.browserless.io/og/home.png"
 tags: [mcp, grok-bot]
 ---
 

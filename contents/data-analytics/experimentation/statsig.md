@@ -1,6 +1,7 @@
 ---
 name: "Statsig"
 link: "https://statsig.com/"
+image: "https://www.statsig.com/images/og_image_q1_2025_rev1.png"
 tags: [mcp, grok-bot]
 ---
 

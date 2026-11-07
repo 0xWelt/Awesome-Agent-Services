@@ -1,6 +1,7 @@
 ---
 name: "Next.js"
 link: "https://nextjs.org/"
+image: "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/nextjs/twitter-card.png"
 tags: [cli]
 ---
 

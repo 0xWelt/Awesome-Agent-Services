@@ -1,6 +1,7 @@
 ---
 name: "Omni Analytics"
 link: "https://omni.co/"
+image: "https://omni.co/images/unfurl-image-2025.png"
 tags: [skill, grok-bot]
 ---
 

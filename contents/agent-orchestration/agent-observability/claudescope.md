@@ -1,6 +1,7 @@
 ---
 name: "Claudescope"
 link: "https://github.com/vladar107/claudescope"
+image: "https://opengraph.githubassets.com/821a1381336074e55d2fba5b7ea5eb26003ae96b176d3eb8a544f245e232fe28/vladar107/claudescope"
 tags: [cli]
 ---
 

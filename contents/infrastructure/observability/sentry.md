@@ -1,6 +1,7 @@
 ---
 name: "Sentry"
 link: "https://sentry.io/"
+image: "https://sentry.io/_astro/home-hero-meta.DJDejDMD.webp"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

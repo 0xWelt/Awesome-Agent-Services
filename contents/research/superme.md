@@ -1,6 +1,7 @@
 ---
 name: "SuperMe"
 link: "https://www.superme.ai/"
+image: "https://www.superme.ai/api/default_og_image"
 tags: [skill, grok-bot]
 ---
 

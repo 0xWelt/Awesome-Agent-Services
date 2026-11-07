@@ -1,6 +1,7 @@
 ---
 name: "Adspirer"
 link: "https://www.adspirer.com/"
+image: "https://www.adspirer.com/opengraph.jpg"
 tags: [mcp, skill, grok-bot]
 ---
 

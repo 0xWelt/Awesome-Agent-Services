@@ -1,6 +1,7 @@
 ---
 name: "Shop"
 link: "https://shop.app/"
+image: "https://shopify-assets.shopifycdn.com/shop-assets/static_uploads/web/shop_logo/shop-logo-default.png"
 tags: [skill, grok-bot]
 ---
 

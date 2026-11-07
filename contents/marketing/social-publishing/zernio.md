@@ -1,6 +1,7 @@
 ---
 name: "Zernio"
 link: "https://zernio.com/"
+image: "https://zernio.com/opengraph-image.png?v=4"
 tags: [mcp, grok-bot]
 ---
 

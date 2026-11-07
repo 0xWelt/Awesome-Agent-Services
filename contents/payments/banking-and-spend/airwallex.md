@@ -1,6 +1,7 @@
 ---
 name: "Airwallex"
 link: "https://www.airwallex.com/en-us"
+image: "https://grw-landing.airwallex.com/unfurlImage.png"
 tags: [skill, grok-bot]
 ---
 

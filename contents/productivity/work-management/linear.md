@@ -1,6 +1,7 @@
 ---
 name: "Linear"
 link: "https://linear.app/"
+image: "https://linear.app/api/og/main?title=Linear&v=4"
 tags: [mcp, grok-bot, cli]
 ---
 

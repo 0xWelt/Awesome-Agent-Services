@@ -1,6 +1,7 @@
 ---
 name: "JFrog"
 link: "https://jfrog.com/"
+image: "https://speedmedia2.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/jfrog.com/wp-content/uploads/2018/06/JFROG.png"
 tags: [mcp, skill, grok-bot]
 ---
 

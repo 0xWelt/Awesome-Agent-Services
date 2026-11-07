@@ -1,6 +1,7 @@
 ---
 name: "Context.dev"
 link: "https://www.context.dev/"
+image: "https://www.context.dev/api/og?title=Every+piece+of+web+context+your+agent+needs."
 tags: [skill, grok-bot]
 ---
 

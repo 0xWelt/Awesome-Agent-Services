@@ -1,6 +1,7 @@
 ---
 name: "Tavero"
 link: "https://github.com/baccaraaa/tavero"
+image: "https://repository-images.githubusercontent.com/1431437675/536377c2-5022-45ca-8b6a-6704091f26f9"
 tags: [mcp, cli]
 ---
 

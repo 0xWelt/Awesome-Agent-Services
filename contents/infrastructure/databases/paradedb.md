@@ -1,6 +1,7 @@
 ---
 name: "ParadeDB"
 link: "https://www.paradedb.com/"
+image: "https://www.paradedb.com/opengraph-image.png?13266c7892e1abad="
 tags: [grok-bot]
 ---
 

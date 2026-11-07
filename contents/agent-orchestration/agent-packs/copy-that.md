@@ -1,6 +1,7 @@
 ---
 name: "Copy That"
 link: "https://github.com/jack-reson8/copy-that"
+image: "https://opengraph.githubassets.com/1240b1ca72bafda0e0fca9e839436e4f235e11b2607593c98ec40c17606567a1/jack-reson8/copy-that"
 tags: [skill]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "CircleCI"
 link: "https://circleci.com/"
+image: "https://images.ctfassets.net/il1yandlcjgk/3NJSDelkFaAtnyFOJNghjQ/df5d4218a3ca83233e471c7eab072b90/circleci-og-morph.png"
 tags: [mcp, grok-bot]
 ---
 

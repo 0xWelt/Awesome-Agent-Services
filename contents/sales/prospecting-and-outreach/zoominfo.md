@@ -1,6 +1,7 @@
 ---
 name: "ZoomInfo"
 link: "https://www.zoominfo.com/"
+image: "https://images.ctfassets.net/kyld7105l6mt/34fryPjsduPJNux4mNaujI/591a263a9cd216bcd8072f25b5c38978/OG_Image_ZoomInfo_Marketing__1_.png"
 tags: [mcp, skill, grok-bot]
 ---
 

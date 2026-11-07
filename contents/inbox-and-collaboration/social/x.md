@@ -1,6 +1,7 @@
 ---
 name: "X"
 link: "https://x.com/"
+image: "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png"
 tags: [skill, grok-bot]
 ---
 

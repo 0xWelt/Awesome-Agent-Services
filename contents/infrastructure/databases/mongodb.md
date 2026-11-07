@@ -1,6 +1,7 @@
 ---
 name: "MongoDB"
 link: "https://www.mongodb.com/"
+image: "https://images.contentstack.io/v3/assets/blt7151619cb9560896/bltfe3bee7877352896/Meta_Generic.png"
 tags: [mcp, skill, grok-bot, cli]
 ---
 

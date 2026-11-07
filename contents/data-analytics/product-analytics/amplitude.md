@@ -1,6 +1,7 @@
 ---
 name: "Amplitude"
 link: "https://amplitude.com/"
+image: "https://amplitude.com/nextjs-public/amplitude-default-seo.png"
 tags: [mcp, skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Superdesign"
 link: "https://superdesign.dev/"
+image: "https://superdesign.dev/icons/icon-512x512.png"
 tags: [skill, grok-bot]
 ---
 

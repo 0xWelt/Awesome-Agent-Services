@@ -1,6 +1,7 @@
 ---
 name: "Buffer"
 link: "https://buffer.com/"
+image: "https://buffer.com/ogImages/homepage-og.png"
 tags: [grok-bot]
 ---
 

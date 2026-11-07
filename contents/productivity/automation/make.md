@@ -1,6 +1,7 @@
 ---
 name: "Make"
 link: "https://www.make.com/"
+image: "https://cdn.prod.website-files.com/6a294495bc84130c6dd0c4fd/6a706624f7fdfc3470419256_og-img.png"
 tags: [mcp, skill, grok-bot]
 ---
 

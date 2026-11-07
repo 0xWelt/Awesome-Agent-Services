@@ -1,6 +1,7 @@
 ---
 name: "Heroku"
 link: "https://www.heroku.com/"
+image: "https://www.heroku.com/wp-content/uploads/2025/08/heroku-card-dark.png"
 tags: [cli]
 ---
 

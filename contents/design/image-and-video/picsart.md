@@ -1,6 +1,7 @@
 ---
 name: "PicsArt"
 link: "https://picsart.com/"
+image: "https://pcdn.picsart.com/cms-uploads/4dab9c08-8462-43f1-83ea-831d95c5b43c.jpg"
 tags: [skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Modem"
 link: "https://modem.dev/"
+image: "https://modem.ai/og/site?v=2026-09-24-single-logo&variant=homepage"
 tags: [mcp, grok-bot]
 ---
 

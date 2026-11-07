@@ -1,6 +1,7 @@
 ---
 name: "Omneky"
 link: "https://www.omneky.com/"
+image: "https://www.omneky.com/og-default.png?v=3"
 tags: [skill, grok-bot]
 ---
 

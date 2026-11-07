@@ -1,6 +1,7 @@
 ---
 name: "LaunchDarkly"
 link: "https://launchdarkly.com/"
+image: "https://launchdarkly.com/images/social-share/launchdarkly-social-cover.jpg"
 tags: [skill, grok-bot, cli]
 ---
 

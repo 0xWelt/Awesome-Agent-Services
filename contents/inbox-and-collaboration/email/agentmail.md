@@ -1,6 +1,7 @@
 ---
 name: "AgentMail"
 link: "https://www.agentmail.to/"
+image: "https://www.agentmail.to/og-image.png"
 tags: [mcp, skill, grok-bot]
 ---
 

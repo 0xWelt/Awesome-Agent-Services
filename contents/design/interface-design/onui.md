@@ -1,6 +1,7 @@
 ---
 name: "onUI"
 link: "https://github.com/onllm-dev/onUI"
+image: "https://opengraph.githubassets.com/bfb0cb602f29ae58536ad8acb6810dad4f70b519c7641592e8c84970dabd8669/onllm-dev/onUI"
 tags: [mcp]
 ---
 

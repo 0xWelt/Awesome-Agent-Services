@@ -1,6 +1,7 @@
 ---
 name: "Blackbird Concierge"
 link: "https://www.blackbird.xyz/"
+image: "https://www.blackbird.xyz/opengraph-image.png"
 tags: [skill, grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "Extend"
 link: "https://www.extend.ai/"
+image: "https://www.extend.ai/images/og/home.png"
 tags: [mcp, skill, grok-bot]
 ---
 

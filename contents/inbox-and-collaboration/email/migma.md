@@ -1,6 +1,7 @@
 ---
 name: "Migma"
 link: "https://migma.ai/"
+image: "https://migma.ai/brandkit/OG_image.jpg"
 tags: [skill, grok-bot]
 ---
 

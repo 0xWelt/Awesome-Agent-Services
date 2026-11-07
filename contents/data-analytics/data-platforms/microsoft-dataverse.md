@@ -1,6 +1,7 @@
 ---
 name: "Microsoft Dataverse"
 link: "https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro"
+image: "https://learn.microsoft.com/en-us/media/open-graph-image.png"
 tags: [mcp, skill, grok-bot]
 ---
 

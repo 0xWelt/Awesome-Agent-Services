@@ -1,6 +1,7 @@
 ---
 name: "Nitrosend"
 link: "https://nitrosend.com/"
+image: "https://nitrosend.com/assets/nitrosend-og-card.jpg"
 tags: [mcp, grok-bot]
 ---
 

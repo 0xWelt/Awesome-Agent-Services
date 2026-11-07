@@ -1,6 +1,7 @@
 ---
 name: "CodeTrendy"
 link: "https://codetrendy.com"
+image: "https://codetrendy.com/uploads/c832e1d4-9319-4680-b6ac-a95c0eda3e21.webp"
 ---
 tags: [mcp]
 ---

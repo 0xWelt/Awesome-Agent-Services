@@ -1,6 +1,7 @@
 ---
 name: "Zapier"
 link: "https://zapier.com/"
+image: "https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1776210705/Governance/og-image-homepage_mskeaq.png"
 tags: [mcp, skill, grok-bot]
 ---
 

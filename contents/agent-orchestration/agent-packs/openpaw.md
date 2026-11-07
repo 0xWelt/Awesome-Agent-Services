@@ -1,6 +1,7 @@
 ---
 name: "OpenPaw"
 link: "https://github.com/daxaur/openpaw"
+image: "https://opengraph.githubassets.com/c0a158d6278419956d6c14025cc13dd8559f6f71c66f7d34bd97ebb1444757b9/daxaur/openpaw"
 tags: [skill, cli]
 ---
 

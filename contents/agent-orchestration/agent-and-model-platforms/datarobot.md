@@ -1,6 +1,7 @@
 ---
 name: "DataRobot"
 link: "https://www.datarobot.com/"
+image: "https://www.datarobot.com/wp-content/uploads/2026/06/default-image-2026.jpg"
 tags: [skill, grok-bot]
 ---
 

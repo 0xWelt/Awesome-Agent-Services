@@ -1,6 +1,7 @@
 ---
 name: "Granola"
 link: "https://www.granola.ai/"
+image: "https://www.granola.ai/og-image.png"
 tags: [skill, grok-bot]
 ---
 

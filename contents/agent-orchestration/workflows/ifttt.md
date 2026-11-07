@@ -1,6 +1,7 @@
 ---
 name: "IFTTT"
 link: "https://ifttt.com/"
+image: "https://web-assets.ifttt.com/builds/assets/ifttt-banner-BdwHPmXv.png"
 tags: [mcp, skill, grok-bot]
 ---
 

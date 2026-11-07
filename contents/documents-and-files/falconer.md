@@ -1,6 +1,7 @@
 ---
 name: "Falconer"
 link: "https://falconer.com/"
+image: "https://mkt.falconer.com/og-image.png"
 tags: [mcp, grok-bot]
 ---
 

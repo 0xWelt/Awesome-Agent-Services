@@ -1,6 +1,7 @@
 ---
 name: "dbt Labs"
 link: "https://www.getdbt.com/"
+image: "https://www.getdbt.com/img/site-meta/facebook.png"
 tags: [skill, grok-bot, cli]
 ---
 

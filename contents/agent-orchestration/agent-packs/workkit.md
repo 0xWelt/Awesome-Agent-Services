@@ -1,6 +1,7 @@
 ---
 name: "workkit"
 link: "https://github.com/ITW-Creative-Works/workkit"
+image: "https://opengraph.githubassets.com/f819c791fe84ea7f3a7e9856e3e3393002522339a5f89d251085571990fb7485/itw-creative-works/workkit"
 tags: [skill]
 ---
 

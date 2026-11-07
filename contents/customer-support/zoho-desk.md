@@ -1,6 +1,7 @@
 ---
 name: "Zoho Desk"
 link: "https://www.zoho.com/desk/"
+image: "https://www.zohowebstatic.com/sites/zweb/images/ogimage/desk-logo.png"
 tags: [grok-bot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: "beehiiv"
 link: "https://www.beehiiv.com/"
+image: "https://media.beehiiv.com/www/og-image/og-beehiiv.png"
 tags: [mcp, grok-bot]
 ---
 

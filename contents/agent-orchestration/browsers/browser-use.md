@@ -1,6 +1,7 @@
 ---
 name: "Browser Use"
 link: "https://browser-use.com/"
+image: "https://browser-use.com/og/card?title=Browser+agents+and+cloud+browsers.&p=agents%2Cbrowsers%2Charness&v=s3"
 tags: [mcp, skill, grok-bot]
 ---
 

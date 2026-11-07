@@ -1,6 +1,7 @@
 ---
 name: "Restream"
 link: "https://restream.io/"
+image: "https://restream.io/images/home-page-open-graph-image.png"
 tags: [grok-bot]
 ---
 

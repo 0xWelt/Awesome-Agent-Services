@@ -1,6 +1,7 @@
 ---
 name: "PostHog"
 link: "https://posthog.com/"
+image: "https://posthog.com/images/og/default.png"
 tags: [mcp, skill, grok-bot]
 ---
 
