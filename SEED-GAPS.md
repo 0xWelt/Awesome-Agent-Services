@@ -89,3 +89,31 @@ An entry is omitted when the instructions say to skip it, when two plugins are t
 - **VideoGen** - No official homepage verified. Not guessed.
 - **Volcano** - No official homepage verified. Not guessed.
 - **Wonder** - No official homepage verified. Not guessed.
+
+## Removed in taxonomy self-check
+
+These were listed, then removed because they are coding tools or device control rather than a fulfillment or transaction service. Awesome-Vibe-Coding keeps coding harnesses and coding-oriented tools.
+
+- **21st.dev** - UI component catalog for coding, not a fulfillment service.
+- **Adobe Developer App Builder** - Developer platform for building Adobe apps, not a fulfillment service.
+- **AMD** - GPU and framework skills for coding, not a fulfillment service.
+- **Atlassian Forge** - Platform for building Atlassian apps. Atlassian itself stays listed.
+- **Chrome Devtools for Agents** - Coding debugger, not a fulfillment service.
+- **CodeRabbit** - Code review tool, not a fulfillment service.
+- **Context7** - Documentation lookup for coding, not a fulfillment service.
+- **Dart and Flutter** - App framework and SDK, not a fulfillment service.
+- **GitHits** - Code context layer for coding agents, not a fulfillment service.
+- **GSAP** - Animation library for the web, not a fulfillment service.
+- **Meta Reality Labs** - Quest and Horizon development skills, not a fulfillment service.
+- **Motion** - Web animation library, not a fulfillment service.
+- **Playwright** - Browser test runner for code, not a fulfillment service.
+- **Postman** - API client for developers, not a fulfillment service.
+- **prisma** - Database toolkit for application code, not a fulfillment service.
+- **Remotion** - Library for programmatic video in React, not a fulfillment service.
+- **Semgrep** - Already a coding-oriented tool in Awesome-Vibe-Coding.
+- **shadcn/ui** - Component source for app UIs, not a fulfillment service.
+- **Sonos** - Speaker control, not a fulfillment or transaction service.
+- **Sourcegraph** - Code search, not a fulfillment service.
+- **Svelte** - UI framework, not a fulfillment service.
+- **tldraw** - Drawing SDK for applications, not a fulfillment service.
+- **Tuist** - Xcode project tool, not a fulfillment service.

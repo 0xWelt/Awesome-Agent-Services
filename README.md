@@ -37,6 +37,8 @@ flowchart TB
     subgraph commerce["Move money, pipeline, or support"]
         direction LR
         Pay["Payments"]
+        Shopn["Shopping"]
+        Logi["Logistics"]
         Fin["Finance and legal"]
         Sales["Sales"]
         Mkt["Marketing"]
@@ -67,6 +69,8 @@ flowchart TB
 | Documents and Files | Documents, drives, and file stores an agent can search or edit. | [contents/documents-and-files/](contents/documents-and-files/) |
 | Productivity | Tasks, notes, knowledge bases, and workspaces an agent uses to get work done. | [contents/productivity/](contents/productivity/) |
 | Payments | Payments, banking, billing, and checkout an agent can query or act on. | [contents/payments/](contents/payments/) |
+| Shopping | Stores and delivery services an agent can use to find goods, run a shop, or place an order. | [contents/shopping/](contents/shopping/) |
+| Logistics | Freight booking, rates, and shipment tracking. | [contents/logistics/](contents/logistics/) |
 | Finance and Legal | Accounting, payroll, agreements, and compliance systems. | [contents/finance-and-legal/](contents/finance-and-legal/) |
 | Sales | CRM, prospecting, enrichment, and outreach. | [contents/sales/](contents/sales/) |
 | Marketing | Campaigns, audiences, and publishing. | [contents/marketing/](contents/marketing/) |
